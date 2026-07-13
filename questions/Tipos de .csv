@@ -1,0 +1,9 @@
+CSV simples:
+mode;topic;wordBank;question;answer
+translation;Prepositions;;She learned Russian ____________ the age of 45.;at
+translation;Prepositions;;The book was written ____________ Mark Twain.;by
+
+
+CSV com word bank:
+mode;topic;wordBank;question;answer
+translation;Quantifiers;some | any | much | many;Do you have ______ money?;much

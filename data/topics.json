@@ -1,0 +1,141 @@
+[
+  {
+    "category": "📚 Basics",
+    "topics": [
+      {
+        "title": "General Quiz",
+        "file": "questions/general_quiz.csv"
+      },
+      {
+        "title": "Articles",
+        "file": "questions/articles.csv"
+      },
+      {
+        "title": "Pronouns",
+        "file": "questions/pronouns.csv"
+      },
+      {
+        "title": "Possessive Pronouns",
+        "file": "questions/possessive_pronouns.csv"
+      },
+      {
+        "title": "How Much / How Many",
+        "file": "questions/how-much-many.csv"
+      },
+      {
+        "title": "Quantifiers",
+        "file": "questions/quantifiers.csv"
+      }
+    ]
+  },
+
+  {
+    "category": "🟣 Modals",
+    "topics": [
+      {
+        "title": "Modals",
+        "file": "questions/modals.csv"
+      }
+    ]
+  },
+
+  {
+    "category": "📍 Prepositions",
+    "topics": [
+      {
+        "title": "Prepositions",
+        "file": "questions/prepositions.csv"
+      },
+      {
+        "title": "Prepositions General",
+        "file": "questions/prepositions_general.csv"
+      }
+    ]
+  },
+
+  {
+    "category": "🟢 Present",
+    "topics": [
+      {
+        "title": "Present Simple 01",
+        "file": "questions/present-simple-01.csv"
+      },
+      {
+        "title": "Present Simple 02",
+        "file": "questions/present-simple-02.csv"
+      },
+      {
+        "title": "Present Continuous",
+        "file": "questions/present-continuous.csv"
+      }
+    ]
+  },
+
+  {
+    "category": "🟠 Past",
+    "topics": [
+      {
+        "title": "Past Simple",
+        "file": "questions/Past-simple.csv"
+      },
+      {
+        "title": "Past Continuous",
+        "file": "questions/Past-continuous.csv"
+      }
+    ]
+  },
+
+  {
+    "category": "🔵 Future",
+    "topics": [
+      {
+        "title": "Going To",
+        "file": "questions/going-to.csv"
+      },
+      {
+        "title": "Will Future",
+        "file": "questions/will-future.csv"
+      }
+    ]
+  },
+
+  {
+    "category": "🧩 Translation",
+    "topics": [
+      {
+        "title": "Translation Present Simple",
+        "file": "questions/t-Present-simple.csv"
+      },
+      {
+        "title": "Translation Present Continuous",
+        "file": "questions/t-Present-continuous.csv"
+      },
+      {
+        "title": "Translation Past Simple",
+        "file": "questions/t-Past-simple.csv"
+      }
+    ]
+  },
+
+  {
+    "category": "📚 Vocabulary",
+    "topics": [
+      {
+        "title": "Vocabulary 01",
+        "file": "questions/vocabulary_01.csv"
+      },
+      {
+        "title": "Phrasal Verbs",
+        "file": "questions/phrasal-verbs.csv"
+      },
+      {
+        "title": "Irregular Verbs",
+        "file": "questions/irregular-verbs.csv"
+      },
+      {
+        "title": "Irregular Verbs 2",
+        "file": "questions/irregular-verbs-2.csv"
+      }
+    ]
+  }
+]
